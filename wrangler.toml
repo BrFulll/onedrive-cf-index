@@ -1,4 +1,4 @@
-name = "onebr"
+name = "onebr-1"
 type = "webpack"
 workers_dev = true
 account_id = "da33157e2ead0daf2834c438e3d978a4"
